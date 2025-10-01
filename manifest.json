@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Amid QR Generator",
+  "version": "1.3",
+  "description": "Generate QR code for the current page URL with one click. - Coded By: Amid Ahadi - Amid-ahadi.ir",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Amid Generate QR Code"
+  },
+  "permissions": ["activeTab"],
+  "host_permissions": []
+}
